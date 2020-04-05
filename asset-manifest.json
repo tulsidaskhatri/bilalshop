@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/bilalshop/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bilalshop/static/js/main.d1132264.chunk.js",
-    "main.js.map": "/bilalshop/static/js/main.d1132264.chunk.js.map",
+    "main.css": "/bilalshop/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/bilalshop/static/js/main.df4eb7ef.chunk.js",
+    "main.js.map": "/bilalshop/static/js/main.df4eb7ef.chunk.js.map",
     "runtime-main.js": "/bilalshop/static/js/runtime-main.3e5e8ecc.js",
     "runtime-main.js.map": "/bilalshop/static/js/runtime-main.3e5e8ecc.js.map",
-    "static/js/2.5ade31d8.chunk.js": "/bilalshop/static/js/2.5ade31d8.chunk.js",
-    "static/js/2.5ade31d8.chunk.js.map": "/bilalshop/static/js/2.5ade31d8.chunk.js.map",
+    "static/js/2.7cc14871.chunk.js": "/bilalshop/static/js/2.7cc14871.chunk.js",
+    "static/js/2.7cc14871.chunk.js.map": "/bilalshop/static/js/2.7cc14871.chunk.js.map",
     "index.html": "/bilalshop/index.html",
-    "precache-manifest.bc698cc65d7ad45eea5e910aa0aed9d3.js": "/bilalshop/precache-manifest.bc698cc65d7ad45eea5e910aa0aed9d3.js",
+    "precache-manifest.d79faa68dfe74cfc9f83de3e7f25aa02.js": "/bilalshop/precache-manifest.d79faa68dfe74cfc9f83de3e7f25aa02.js",
     "service-worker.js": "/bilalshop/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/bilalshop/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5ade31d8.chunk.js.LICENSE.txt": "/bilalshop/static/js/2.5ade31d8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/bilalshop/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/bilalshop/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7cc14871.chunk.js.LICENSE.txt": "/bilalshop/static/js/2.7cc14871.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3e5e8ecc.js",
-    "static/js/2.5ade31d8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d1132264.chunk.js"
+    "static/js/2.7cc14871.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.df4eb7ef.chunk.js"
   ]
 }
