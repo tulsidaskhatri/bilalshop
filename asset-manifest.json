@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bilalshop/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/bilalshop/static/js/main.5741fd7c.chunk.js",
-    "main.js.map": "/bilalshop/static/js/main.5741fd7c.chunk.js.map",
+    "main.js": "/bilalshop/static/js/main.dbe1c79b.chunk.js",
+    "main.js.map": "/bilalshop/static/js/main.dbe1c79b.chunk.js.map",
     "runtime-main.js": "/bilalshop/static/js/runtime-main.3e5e8ecc.js",
     "runtime-main.js.map": "/bilalshop/static/js/runtime-main.3e5e8ecc.js.map",
-    "static/js/2.053cf04c.chunk.js": "/bilalshop/static/js/2.053cf04c.chunk.js",
-    "static/js/2.053cf04c.chunk.js.map": "/bilalshop/static/js/2.053cf04c.chunk.js.map",
+    "static/js/2.441b9940.chunk.js": "/bilalshop/static/js/2.441b9940.chunk.js",
+    "static/js/2.441b9940.chunk.js.map": "/bilalshop/static/js/2.441b9940.chunk.js.map",
     "index.html": "/bilalshop/index.html",
-    "precache-manifest.d0143fca5e5a61785cefd1b4385d4219.js": "/bilalshop/precache-manifest.d0143fca5e5a61785cefd1b4385d4219.js",
+    "precache-manifest.ad88d64e39705fc25be507decfb671b2.js": "/bilalshop/precache-manifest.ad88d64e39705fc25be507decfb671b2.js",
     "service-worker.js": "/bilalshop/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/bilalshop/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.053cf04c.chunk.js.LICENSE.txt": "/bilalshop/static/js/2.053cf04c.chunk.js.LICENSE.txt"
+    "static/js/2.441b9940.chunk.js.LICENSE.txt": "/bilalshop/static/js/2.441b9940.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3e5e8ecc.js",
-    "static/js/2.053cf04c.chunk.js",
+    "static/js/2.441b9940.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5741fd7c.chunk.js"
+    "static/js/main.dbe1c79b.chunk.js"
   ]
 }
