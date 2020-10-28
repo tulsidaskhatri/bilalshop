@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bilalshop/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/bilalshop/static/js/main.4033232d.chunk.js",
-    "main.js.map": "/bilalshop/static/js/main.4033232d.chunk.js.map",
+    "main.js": "/bilalshop/static/js/main.9dbf5ac6.chunk.js",
+    "main.js.map": "/bilalshop/static/js/main.9dbf5ac6.chunk.js.map",
     "runtime-main.js": "/bilalshop/static/js/runtime-main.3e5e8ecc.js",
     "runtime-main.js.map": "/bilalshop/static/js/runtime-main.3e5e8ecc.js.map",
     "static/js/2.33e681f2.chunk.js": "/bilalshop/static/js/2.33e681f2.chunk.js",
     "static/js/2.33e681f2.chunk.js.map": "/bilalshop/static/js/2.33e681f2.chunk.js.map",
     "index.html": "/bilalshop/index.html",
-    "precache-manifest.9b7b992890ca8d501a6128886aa4796c.js": "/bilalshop/precache-manifest.9b7b992890ca8d501a6128886aa4796c.js",
+    "precache-manifest.1327bd935e14f4a692b57646961333fe.js": "/bilalshop/precache-manifest.1327bd935e14f4a692b57646961333fe.js",
     "service-worker.js": "/bilalshop/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/bilalshop/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.33e681f2.chunk.js.LICENSE.txt": "/bilalshop/static/js/2.33e681f2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3e5e8ecc.js",
     "static/js/2.33e681f2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.4033232d.chunk.js"
+    "static/js/main.9dbf5ac6.chunk.js"
   ]
 }
